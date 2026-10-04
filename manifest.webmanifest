@@ -1,0 +1,12 @@
+{
+  "name": "SALAT",
+  "short_name": "SALAT",
+  "description": "Your Complete Prayer Companion",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f5f0",
+  "theme_color": "#0d4f3c",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
